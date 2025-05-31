@@ -1,0 +1,74 @@
+[
+  {
+    "image": "./assets/realmadrid.jpg",
+    "name": "realmadrid"
+  },
+  {
+    "image": "./assets/barcelona.jpg",
+    "name": "barcelona"
+  },
+  {
+    "image": "./assets/manCity.jpg",
+    "name": "manCity"
+  },
+  {
+    "image": "./assets/manUnited.jpg",
+    "name": "manUnited"
+  },
+  {
+    "image": "./assets/Juventus.jpg",
+    "name": "Juventus"
+  },
+  {
+    "image": "./assets/paris.jpg",
+    "name": "paris"
+  },
+  {
+    "image": "./assets/milan.jpg",
+    "name": "milan"
+  },
+  {
+    "image": "./assets/inter.jpg",
+    "name": "inter"
+  },
+  {
+    "image": "./assets/Liverpool.jpg",
+    "name": "Liverpool"
+  },
+  {
+    "image": "./assets/bayernMunich.jpg",
+    "name": "bayernMunich"
+  },
+  {
+    "image": "./assets/Arsenal.jpg",
+    "name": "Arsenal"
+  },
+  {
+    "image": "./assets/atletico.jpg",
+    "name": "atletico"
+  },
+  {
+    "image": "./assets/Chelsea.jpg",
+    "name": "Chelsea"
+  },
+  {
+    "image": "./assets/tottenham-hotspur.jpg",
+    "name": "tottenham-hotspur"
+  },
+  {
+    "image": "./assets/olympique_de_marseille.jpg",
+    "name": "olympique_de_marseille"
+  },
+  {
+    "image": "./assets/lyon.jpg",
+    "name": "lyon"
+  },
+  {
+    "image": "./assets/Dortmund.jpg",
+    "name": "Dortmund"
+  },
+  {
+    "image": "./assets/Bayer_04_Leverkusen.jpg",
+    "name": "Bayer_04_Leverkusen"
+  }
+]
